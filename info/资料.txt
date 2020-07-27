@@ -9,3 +9,5 @@ chapter 5:
 LDA-math - 认识 Beta/Dirichlet 分布 https://cosx.org/2013/01/lda-math-beta-dirichlet/
 共轭分布：https://zhuanlan.zhihu.com/p/103854460
 信息论： http://www.ruanyifeng.com/blog/2019/08/information-theory.html
+牛顿法与拟牛顿法: https://blog.csdn.net/songbinxu/article/details/79677948
+
